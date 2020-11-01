@@ -1,0 +1,135 @@
+ pi@raspberrypi:~/RSL $ history
+    1  sudo raspi-config
+    2  sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+    3  ifconfig wlan0
+    4  sudo nano/etc/wpa_supplicant/wpa_supplicnt.config
+    5  sudo nano/etc/wpa_supplicant/wpa_supplicant.config
+    6  sudo nano /etc/wpa_supplicant/wpa_supplicant.config
+    7  tc/wpa_supplicant/wpa_s
+    8  sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+    9  sudo su
+   10  ifconfigwlan
+   11  ifconfig wlan
+   12  sudo raspi-config
+   13  ifconfig wlan
+   14  netstat -r | grep default
+   15  sudo nano /etc/resolv.config
+   16  netsh wlan
+   17  netsh wlan//
+   18  netsh wlan/
+   19  netsh wlan show
+   20  netsh wlan show profile
+   21  netsh wlan show network
+   22  nano sudo
+   23  sudo raspi-config
+   24  sudo pi config
+   25  sudo raspi-config
+   26  sudo nano /etc/dhcpcd.conf
+   27  suo nano /etc/dhcpcd.config
+   28  suo nano /etc/dhcpcd.conf
+   29  sudo nano /etc/dhcpcd.conf
+   30  sudo nano /etc/dhcpcd.config
+   31  sudo reboot
+   32  sudo rspi-config
+   33  sudo raspi-config
+   34  sudo apt-get update
+   35  sudo apt install postgresql libpq-dev postgresql-client postgresql-client-common -y
+   36  sudo su postgres
+   37  psql
+   38  psql test
+   39  \du
+   40  psql
+   41  \du
+   42  sudo su postgres2
+   43  psql test
+   44  =# ALTER USER pi WITH NOSUPERUSER Option2 Option3;
+   45  =# ALTER USER pi WITH NOSUPERUSER
+   46  =# ALTER USER pi WITH NOSUPERUSER;
+   47  =# ALTER USER pi WITH NOSUPERUSER;ALTER ROLE
+   48  psql test
+   49  pip install psycopg2
+   50  import psycopg2
+   51  conn = psycopg.connect("host=localhost dbname=postgres user=pi")
+   52  conn = psycopg2.connect("host=localhost dbname=postgres user=postgres")
+   53  conn = psycopg2.connect("host=localhost dbname=test user=pi")
+   54  connection = psycopg2.connect(user = "pi" password = "raspberry" host = "localhost" database = "test")
+   55  psql test
+   56  conn = psycopg.connect( "host=192.168.1.18 dbname=test user=pi" )
+   57  conn = psycopg.connect(host=192.168.1.18 dbname=test user=pi)
+   58  import psycopg2
+   59  "import" psycopg2
+   60  psql test
+   61  psql
+   62  psql test
+   63  sudo su postgres
+   64  suda apt-get update
+   65  sudo apt-get update
+   66  sudo apt install postgresql libpq-dev postgresql-client postgresql-client-common-y
+   67  postgresql-client-common- y
+   68  sudo apt install postgresql-client-common- y
+   69  sudo apt install postgresql libpq-dev postgresql-client postgresql-client-common-y
+   70  sudo apt install postgresql libpq-dev postgresql-client postgresql-client-common- y
+   71  sudo apt install postgresql libpq-dev postgresql-client postgresql-client-common -y
+   72  sudo su postgres
+   73  pwd
+   74  ls
+   75  pwd ls
+   76  ls
+   77  mkdir RSL
+   78  cd RSL
+   79  psql test
+   80  git config -- global user.name "Shiva Jaggan"
+   81  ls
+   82  cd test
+   83  cd RSL
+   84  ls
+   85  git init
+   86  ls -a
+   87  ls -a git
+   88  git config --global user.name "Shiva Jaggan";
+   89  git config --global user.email "shiva.jaggan@gmail.com"
+   90  git config --global core.editor nano;
+   91  y
+   92  la
+   93  ls
+   94  ls -a
+   95  \dt
+   96  git config --global user.name "S-J-hva"
+   97  git config --global user.email "shiva.jaggan@hva.nl"
+   98  git init
+   99  git status
+  100  git add --all
+  101  git status
+  102  git commit -am "recommendationsystem"
+  103  git status
+  104  git remote add origin https://github.com/S-J-hva/recommendationsystem.git
+  105  git push -u origin master
+  106  python3 -m venv~/VE
+  107  python3
+  108  python3 -m venv/home/pi/VE
+  109  python3 -m venv~/home/pi/VE
+  110  python3 -m home/pi/VE
+  111  python3 -m venv /home/pi/VE
+  112  source /VE/bin/activate
+  113  source /home/pi/activate
+  114  source home/pi/activate
+  115  home/pi/activate
+  116  source /home/pi/VE/activate
+  117  source home/pi/VE/activate
+  118  source home/pi/VE/bin/activate
+  119  source home/pi/VE/bin/activate.
+  120  home/pi/VE/bin/activate
+  121  source ~/VE/bin/activate
+  122  python--version
+  123  python --version
+  124  pip show pip
+  125  pip install pandas
+  126  pip uninstall numpy
+  127  sudo apt-get install libatlas-base-dev
+  128  pip3 install numpy
+  129  history
+  130  import pandas as pd
+  131  pd.test
+  132  python recommendersystem_metascore.py
+  133  python ~/VE/recommendersystem_metascore.py
+  134  history

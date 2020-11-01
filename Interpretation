@@ -1,0 +1,47 @@
+Sunday, november 1st, 2020.
+
+Shiva Jaggan
+
+Interpretation of the output 
+
+
+The output based on summary are pretty random and I don't feel like this output gives me the recommendation I want.
+All 50 recommendations have a score of 1, so 100% match. Without a limit of 50 there would probably be A LOT of movies with 90%+.
+This is probably the result because in the summary are a lot of words. 
+And if we are searching for lexemes of 'fast' and 'furious' we will find them in a lot of movies. 
+
+The output based on the title is just 5 movies. That is because I used fast+furious, 
+because I was afraid if I only used 'fast' or 'furious' I would get the same general results as with Summary. 
+All the five movies are a direct hit though. But they are all from the same franchise, so doesn't give me
+new information. 
+
+The recommendations based on "starring" gave me 18 movies where 'diesel' is found in.
+I like Vin Diesel. So I like this output. But again, this can also be generated with a filter in excel.
+So good recommendations, but not really new information. 
+
+In the last, python made, recommendation list based on the metascore I find a lot of interesting new movies.
+Some I know, some I don't, but the ones I know are to my liking. This recommandation system is the best one. 
+
+I would've liked to have more of an introduction into Python before working with it, but in the end it worked. 
+
+In this week there has been little time to learn alot. I am not well known in the world of programming,
+so everything I did was new and I put in A LOT of hours to understand what I am doing and actually doing it. 
+
+In the files I tried to explain as much as I can without making big stories. 
+
+There were no standards written down for the report, so I hope this is sufficient. 
+
+Kind regards,
+
+Shiva Jaggan
+500819204
+
+
+
+
+
+
+
+
+
+
